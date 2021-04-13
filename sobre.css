@@ -89,3 +89,7 @@ body {
 .imagens center {
     margin-top: 50px;
 }
+
+a {
+    text-decoration: none;
+}
